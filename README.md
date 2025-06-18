@@ -1,5 +1,6 @@
 # Termux-Apk
 
+👉 Link download Apk: https://f-droid.org/en/packages/com.termux/
 
 ### 1️⃣ Update dan upgrade package:
 
